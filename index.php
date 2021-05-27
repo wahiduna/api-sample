@@ -2,7 +2,7 @@
 $data = array(
     array(
         "name" => "Sangat Kurus",
-        "description" => "BMI < 15"
+        "description" => "BMI kurang dari 15"
     ),
     array(
         "name" => "Berat Badan Kurang",
