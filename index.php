@@ -26,7 +26,7 @@ $data = array(
     ),
     array(
         "name" => "Obesitas Kelas III",
-        "description" => "BMI lebih dari 39.9"     
+        "description" => "BMI lebih dari 39.8"     
     )    
 );
 
